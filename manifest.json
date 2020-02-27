@@ -17,7 +17,7 @@
       "src": "assets/favicon-256.png",
       "sizes": "256x256",
       "type": "image/png"
-    },
+    }
   ],
   "start_url": "./index.html",
   "display": "standalone",
