@@ -2,6 +2,7 @@
   "short_name": "MDWA",
   "name": "The Most Dangerous Writing App",
   "description": "Don’t stop typing, or all progress will be lost.",
+  "scope": "https://maebert.github.io/themostdangerouswritingapp",
   "icons": [
     {
       "src": "assets/favicon.png",
@@ -51,6 +52,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#F45653",
+  "theme_color": "#FFFEFA",
   "background_color": "#FFFEFA"
 }
